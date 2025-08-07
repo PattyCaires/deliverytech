@@ -1,0 +1,4 @@
+/mvnw text eol=lf
+*.cmd text eol=crlf
+git config --global user.name "Patricia Caires"
+git config --global user.email "patriciacairesc@gmail.com"
